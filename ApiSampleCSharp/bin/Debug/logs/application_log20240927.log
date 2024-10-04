@@ -1,0 +1,31 @@
+2024-09-27 14:19:12 [Information] Sale transaction amount: 11
+2024-09-27 14:19:46 [Information] Printout:
+2024-09-27 14:19:46 [Information] Printout:
+2024-09-27 14:19:46 [Information] Transaction result: accepted.
+2024-09-27 14:26:33 [Information] Sale transaction amount: 12
+2024-09-27 14:27:12 [Information] Printout:
+2024-09-27 14:27:12 [Information] Printout:
+2024-09-27 14:27:12 [Information] Transaction result: accepted.
+2024-09-27 14:27:53 [Information] Sale transaction amount: 13
+2024-09-27 14:28:32 [Information] Printout:
+2024-09-27 14:28:32 [Information] Transaction result: accepted.
+2024-09-27 14:29:36 [Information] Sale transaction amount: 14
+2024-09-27 14:31:59 [Information] Printout:
+2024-09-27 14:31:59 [Information] Printout:
+2024-09-27 14:31:59 [Warning] Transaction result: interrupted by user.
+2024-09-27 14:32:29 [Information] Sale transaction amount: 14
+2024-09-27 14:33:18 [Information] Printout:
+2024-09-27 14:33:19 [Information] Printout:
+2024-09-27 14:33:19 [Warning] Transaction result: refused.
+2024-09-27 14:40:33 [Information] Sale transaction amount: 17.55
+2024-09-27 14:40:57 [Information] Printout:
+2024-09-27 14:40:57 [Information] Printout:
+2024-09-27 14:40:57 [Warning] Transaction result: refused.
+2024-09-27 14:44:21 [Information] Sale transaction amount: 18.04
+2024-09-27 14:44:53 [Information] Printout:
+2024-09-27 14:44:53 [Information] Printout:
+2024-09-27 14:44:53 [Warning] Transaction result: refused.
+2024-09-27 14:48:00 [Information] Sale transaction amount: 20
+2024-09-27 14:51:06 [Information] Sale transaction amount: 20
+2024-09-27 14:51:07 [Information] Printout:
+2024-09-27 14:51:07 [Information] Printout:

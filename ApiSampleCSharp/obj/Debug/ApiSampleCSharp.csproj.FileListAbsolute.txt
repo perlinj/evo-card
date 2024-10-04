@@ -1,0 +1,105 @@
+C:\Users\User\source\repos\ApiSampleCSharp\ApiSampleCSharp\bin\Debug\ApiSampleCSharp.exe.config
+C:\Users\User\source\repos\ApiSampleCSharp\ApiSampleCSharp\bin\Debug\ApiSampleCSharp.exe
+C:\Users\User\source\repos\ApiSampleCSharp\ApiSampleCSharp\bin\Debug\ApiSampleCSharp.pdb
+C:\Users\User\source\repos\ApiSampleCSharp\ApiSampleCSharp\bin\Debug\EcrLibrary.dll
+C:\Users\User\source\repos\ApiSampleCSharp\ApiSampleCSharp\obj\Debug\ApiSampleCSharp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ApiSampleCSharp\ApiSampleCSharp\obj\Debug\ApiSampleCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ApiSampleCSharp\ApiSampleCSharp\obj\Debug\ApiSampleCSharp.csproj.CopyComplete
+C:\Users\User\source\repos\ApiSampleCSharp\ApiSampleCSharp\obj\Debug\ApiSampleCSharp.exe
+C:\Users\User\source\repos\ApiSampleCSharp\ApiSampleCSharp\obj\Debug\ApiSampleCSharp.pdb
+C:\Users\USER\Downloads\ApiSampleCSharp\ApiSampleCSharp\bin\Debug\ApiSampleCSharp.exe.config
+C:\Users\USER\Downloads\ApiSampleCSharp\ApiSampleCSharp\bin\Debug\ApiSampleCSharp.exe
+C:\Users\USER\Downloads\ApiSampleCSharp\ApiSampleCSharp\bin\Debug\ApiSampleCSharp.pdb
+C:\Users\USER\Downloads\ApiSampleCSharp\ApiSampleCSharp\bin\Debug\EcrLibrary.dll
+C:\Users\USER\Downloads\ApiSampleCSharp\ApiSampleCSharp\obj\Debug\ApiSampleCSharp.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\ApiSampleCSharp\ApiSampleCSharp\obj\Debug\ApiSampleCSharp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\ApiSampleCSharp\ApiSampleCSharp\obj\Debug\ApiSampl.7B3366AF.Up2Date
+C:\Users\USER\Downloads\ApiSampleCSharp\ApiSampleCSharp\obj\Debug\ApiSampleCSharp.exe
+C:\Users\USER\Downloads\ApiSampleCSharp\ApiSampleCSharp\obj\Debug\ApiSampleCSharp.pdb
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\ApiSampleCSharp.exe.config
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\ApiSampleCSharp.exe
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\ApiSampleCSharp.pdb
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\EcrLibrary.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\obj\Debug\ApiSampleCSharp.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\obj\Debug\ApiSampleCSharp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\obj\Debug\ApiSampl.7B3366AF.Up2Date
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\obj\Debug\ApiSampleCSharp.exe
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\obj\Debug\ApiSampleCSharp.pdb
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Azure.Core.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Azure.Identity.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Buffers.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.ClientModel.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Memory.Data.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Memory.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Security.Permissions.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Text.Json.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Azure.Core.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Azure.Identity.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Buffers.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.ClientModel.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Memory.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Memory.Data.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Security.AccessControl.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Security.Permissions.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Text.Json.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Serilog.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Threading.Channels.dll
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Serilog.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\USER\Desktop\EVO CARD\ApiSampleCSharp-Perlin edited\ApiSampleCSharp\bin\Debug\System.Threading.Channels.xml
